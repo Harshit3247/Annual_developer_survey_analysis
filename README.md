@@ -1,0 +1,1 @@
+This project performs an exploratory data analysis (EDA) on the Stack Overflow annual developer survey dataset. The analysis includes loading, cleaning, and visualizing data to uncover insights about the developer community.
